@@ -37,7 +37,8 @@ Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente 
  
 <hr>
 
-## Syllabus [TBA]
+## Syllabus 
+## [TBA]
 
 <hr>
 
