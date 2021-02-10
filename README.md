@@ -11,7 +11,7 @@ Benvenuti sul sito web del corso di Teoria degli Algoritmi!
 Il corso si svolge al secondo semestre del primo anno della [Laurea Magistrale in Matematica Applicata della Sapienza Università di Roma](https://www.mat.uniroma1.it/didattica/corsi-di-laurea/matematica-applicata-magistrale).
 
 ### Modalità di Partecipazione al Corso
-Nel rispetto delle linee guida promosse dall'Ateneo per contrastare la cosiddetta fase 3 dell'epidemia COVID-19, per l'a.a. 2020-21 il corso si terrà in modalità _blended_ (sia in presenza che a distanza). Si invitano pertanto gli studenti a prendere visione del documento contenente le modalità di partecipazione al corso, disponibile al seguente [link](./extra/Linee_Guida_Didattica.md).
+Nel rispetto delle linee guida promosse dall'Ateneo per contrastare la cosiddetta fase 3 dell'epidemia COVID-19, per l'a.a. 2020-21 il corso si terrà in modalità _blended_ (sia in presenza che a distanza). Si invitano pertanto gli studenti a prendere visione della documentazione contenente le modalità di partecipazione alle attività didattiche, disponibile al seguente [link](https://www.uniroma1.it/it/notizia/covid-19-fase-3-lezioni-esami-e-lauree-presenza-e-distanza).
 
 ### Orario delle Lezioni
 - **Mercoledì** dalle **9:00** alle **11:00** (Aula G - Dipartimento di Matematica "G. Castelnuovo" [edificio CU006])
