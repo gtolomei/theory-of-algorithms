@@ -10,12 +10,18 @@ Benvenuti sul sito web del corso di Teoria degli Algoritmi!
 
 Il corso si svolge al secondo semestre del primo anno della [Laurea Magistrale in Matematica Applicata della Sapienza Università di Roma](https://www.mat.uniroma1.it/didattica/corsi-di-laurea/matematica-applicata-magistrale).
 
+### Orario delle Lezioni
+- **Mercoledì** dalle **9:00** alle **11:00**
+- **Giovedì** dalle **11:00** alle **13:00**
+
 ### Modalità di Partecipazione al Corso
 Nel rispetto delle linee guida promosse dall'Ateneo per contrastare la cosiddetta fase 3 dell'epidemia COVID-19, per l'a.a. 2020-21 il corso si terrà in modalità _blended_ (sia in presenza che a distanza). Si invitano pertanto gli studenti a prendere visione della documentazione contenente le modalità di partecipazione alle attività didattiche, disponibile al seguente [link](https://www.uniroma1.it/it/notizia/covid-19-fase-3-lezioni-esami-e-lauree-presenza-e-distanza).
 
-### Orario delle Lezioni
-- **Mercoledì** dalle **9:00** alle **11:00** (Aula G - Dipartimento di Matematica "G. Castelnuovo" [edificio CU006])
-- **Giovedì** dalle **11:00** alle **13:00** (Aula G - Dipartimento di Matematica "G. Castelnuovo" [edificio CU006])
+#### Partecipazione in Presenza
+Gli studenti che intendono seguire il corso in presenza dovranno effettuare opportuna richiesta tramite il sistema di prenotazione [Prodigit Sapienza](https://prodigit.uniroma1.it/), secondo le modalità e i tempi stabiliti dal [regolamento](https://www.mat.uniroma1.it/archivionotizie/prenotazioni-lezioni-su-prodigit). Una volta confermata la propria prenotazione, dovranno recarsi presso Aula G del Dipartimento di Matematica "G. Castelnuovo" [edificio CU006], nel giorno e nell'orario previsti per la lezione oggetto della prenotazione.
+
+#### Partecipazione a Distanza via Zoom
+Gli studenti che intendono seguire il corso in modalità a distanza potranno registrarsi alla conferenza Zoom dedicata, tramite il seguente link: https://uniroma1.zoom.us/meeting/register/tZUtceCoqTgiE9AkOHCV4eMk1kv3OHPrx8Gf
 
 ### Orario di Ricevimento
 - **Martedì** dalle **14:00** alle **16:00** presso la stanza G39 situata al II piano della Palazzina G di viale Regina Elena 295<br>
