@@ -14,6 +14,9 @@ Il corso si svolge al secondo semestre del primo anno della [Laurea Magistrale i
 - **Mercoledì** dalle **9:00** alle **11:00**
 - **Giovedì** dalle **11:00** alle **13:00**
 
+### Pagina Moodle del Corso
+Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=13101
+
 ### Modalità di Partecipazione al Corso
 Nel rispetto delle linee guida promosse dall'Ateneo per contrastare la cosiddetta fase 3 dell'epidemia COVID-19, per l'a.a. 2020-21 il corso si terrà in modalità _blended_ (sia in presenza che a distanza). Si invitano pertanto gli studenti a prendere visione della documentazione contenente le modalità di partecipazione alle attività didattiche, disponibile al seguente [link](https://www.uniroma1.it/it/notizia/covid-19-fase-3-lezioni-esami-e-lauree-presenza-e-distanza).
 
