@@ -35,7 +35,8 @@ Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente 
 - Sito web: https://www.di.uniroma1.it/~tolomei
 - Bacheca Sapienza: https://corsidilaurea.uniroma1.it/it/users/gabrieletolomeiuniroma1it
 
-### Obiettivi del Corso [TBA]
+### Obiettivi del Corso
+L'obiettivo del corso è duplice: da un lato, intende fornire le basi teoriche della calcolabilità e della complessità computazionale per poter riconoscere quali problemi sono risolvibili da un calcolatore mediante un _algoritmo_ e, per questi problemi, identificare la soluzione algoritmica più efficiente tra tutte quelle eventualmente possibili; dall'altro, si propone di esaminare una serie di algoritmi noti allo stato dell'arte che sono fondamentali per la risoluzione di problemi tipici dei contesti applicativi moderni, quali l'analisi dei dati su larga scala e la costruzione di modelli predittivi attraverso tecniche di _machine learning_. 
 
 ### Modalità di Esame [TBA]
 
@@ -44,7 +45,18 @@ Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente 
 <hr>
 
 ## Syllabus 
-## [TBA]
+### Parte I
+- Teoria della Calcolabilità
+    - Introduzione
+    - Macchine di Turing
+    - Decidibilità
+    - Riducibilità
+- Teoria della Complessità Computazionale
+    - Complessità Temporale
+    - Complessità Spaziale
+    - Classi di Complessità
+    - P vs. NP
+[**TO BE CONTINUED...**]
 
 <hr>
 
