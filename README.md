@@ -23,12 +23,12 @@ Gli studenti che intendono seguire il corso in presenza dovranno effettuare oppo
 #### Partecipazione a Distanza: Zoom
 Gli studenti che intendono seguire il corso in modalità a distanza potranno registrarsi alla conferenza Zoom dedicata, tramite il seguente link: https://uniroma1.zoom.us/meeting/register/tZUtceCoqTgiE9AkOHCV4eMk1kv3OHPrx8Gf
 
+### Pagina Moodle del Corso
+Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=13101
+
 ### Orario di Ricevimento
 - **Martedì** dalle **14:00** alle **16:00** presso la stanza G39 situata al II piano della Palazzina G di viale Regina Elena 295<br>
 (**NOTA:** _A causa dell'emergenza sanitaria tuttora in atto, i ricevimenti in presenza sono sospesi fino a nuova comunicazione. Tuttavia, è possibile richiedere l'appuntamento per un ricevimento a distanza via Google Meet o Zoom facendone esplicita richiesta via email all'indirizzo:_ tolomei@di.uniroma1.it)
-
-### Pagina Moodle del Corso
-Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=13101
 
 ### Contatti Docente
 - Email: tolomei@di.uniroma1.it
