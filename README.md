@@ -3,6 +3,8 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) |
 
 ## News
+- **Inizio delle lezioni!**<br/>
+Le lezioni del corso avranno inizio il giorno **24 febbraio 2021** alle ore **9:00** e si svolgeranno in modalità _blended_. Per seguire le lezioni in presenza o da remoto, si prega di consultare le istruzioni disponibili qui [sotto](#Modalità-Di-Partecipazione-Al-Corso).
 
 ## Informazioni Generali
 
