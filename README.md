@@ -68,4 +68,4 @@ L'obiettivo del corso è duplice: da un lato, intende fornire le basi teoriche d
 | Lezione \# | Data | Argomento                                     | Materiale      | 
 |------------|------|-----------------------------------------------|----------------|
 | Lezione 1  | 24/02/2021 | Introduzione | [slides: <a href="./lectures/slides/01_Introduction.pdf" target="_blank">PDF</a>] |
-| Lezione 2  | 25/02/2021 | Le Macchine di Turing | [slides: <a href="./lectures/slides/02_Turing_Machines.pdf" target="_blank">PDF</a>]|
+| Lezione 2  | 25/02/2021 | Le Macchine di Turing (I parte) | [slides: <a href="./lectures/slides/02_Turing_Machines.pdf" target="_blank">PDF</a>]|
