@@ -69,3 +69,4 @@ L'obiettivo del corso è duplice: da un lato, intende fornire le basi teoriche d
 |------------|------|-----------------------------------------------|----------------|
 | Lezione 1  | 24/02/2021 | Introduzione | [slides: <a href="./lectures/slides/01_Introduction.pdf" target="_blank">PDF</a>] |
 | Lezioni 2 e 3  | 25/02/2021 - 03/03/2021| Le Macchine di Turing | [slides: <a href="./lectures/slides/02_Turing_Machines.pdf" target="_blank">PDF</a>]|
+| Lezioni 3 e 4  | 04/03/2021 - 10/03/2021| Decidibilità | [slides: <a href="./lectures/slides/03_Decidability.pdf" target="_blank">PDF</a>]|
