@@ -45,8 +45,16 @@ L'obiettivo del corso è duplice: da un lato, intende fornire le basi teoriche d
 
 ### Modalità di Esame [TBA]
 
-### Libri di Testo Consigliati [TBA]
- 
+### Libri di Testo Consigliati
+Sebbene il materiale didattico fornito a lezione sia del tutto sufficiente, per eventuali approfondimenti si consigliano i seguenti testi.
+- **Teoria della Calcolabilità e Complessità**
+    - _Introduction to the Theory of Computation_ [Sipser] (disponibile anche in italiano)
+- **Machine Learning**
+    - _Pattern Recognition and Machine Learning_ [Bishop]
+    - _Introduction to Machine Learning_ [Alpaydin]
+    - _Machine Learning_ [Murphy] 
+    - _Mathematics for Machine Learning_ [Deisenroth] 
+
 <hr>
 
 ## Syllabus 
