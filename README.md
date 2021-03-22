@@ -49,6 +49,7 @@ L'obiettivo del corso è duplice: da un lato, intende fornire le basi teoriche d
 Sebbene il materiale didattico fornito a lezione sia del tutto sufficiente, per eventuali approfondimenti si consigliano i seguenti testi.
 - **Teoria della Calcolabilità e Complessità**
     - _Introduction to the Theory of Computation_ [Sipser] (disponibile anche in italiano)
+    - _Introduction to Theoretical Computer Science_ [Barak] (disponibile [online](https://files.boazbarak.org/introtcs/lnotes_book.pdf))
 - **Machine Learning**
     - _Pattern Recognition and Machine Learning_ [Bishop]
     - _Introduction to Machine Learning_ [Alpaydin]
