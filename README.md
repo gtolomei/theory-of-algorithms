@@ -67,9 +67,9 @@ Sebbene il materiale didattico fornito a lezione sia del tutto sufficiente, per 
     - Riducibilità
 - Teoria della Complessità Computazionale
     - Complessità Temporale
-    - Complessità Spaziale
     - Classi di Complessità
     - P vs. NP
+    - NP-completezza
 
 [**TO BE CONTINUED...**]
 
