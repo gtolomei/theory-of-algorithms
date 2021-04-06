@@ -3,6 +3,8 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) |
 
 ## News
+- **IMPORTANTE: Rinvio Lezione del 14/04/2021**<br/>
+A causa di impegni istituzionali, la lezione di **mercoledì 14 aprile 2021** è rinviata a data da destinarsi.
 - **IMPORTANTE: Sospensione Attività Didattica in Presenza**<br/>
 A partire da **lunedì 15 marzo 2021**, tutte le attività didattiche dei programmi di studio Sapienza si svolgeranno **esclusivamente a distanza**. Pertanto, le lezioni del corso proseguiranno solamente in modalità remota, attraverso la consueta [stanza virtuale Zoom](https://uniroma1.zoom.us/meeting/register/tZUtceCoqTgiE9AkOHCV4eMk1kv3OHPrx8Gf), secondo il calendario stabilito.<br/>
 Per qualsiasi ulteriore informazione, si prega di consultare questo [link](https://www.uniroma1.it/it/notizia/covid-19-fase-3-lezioni-esami-e-lauree-presenza-e-distanza).
