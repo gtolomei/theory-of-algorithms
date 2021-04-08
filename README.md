@@ -87,4 +87,4 @@ Sebbene il materiale didattico fornito a lezione sia del tutto sufficiente, per 
 | Lezioni 6 e 7  | 11/03/2021 - 17/03/2021| Riducibilità | [slides: <a href="./lectures/slides/04_Reducibility.pdf" target="_blank">PDF</a>]|
 | Lezioni 8 e 9  | 18/03/2021 - 24/03/2021| Complessità Computazionale | [slides: <a href="./lectures/slides/05_Complexity.pdf" target="_blank">PDF</a>]|
 | Lezioni 10 e 11  | 25/03/2021 - 31/03/2021| Classi P e NP | [slides: <a href="./lectures/slides/06_P_vs_NP.pdf" target="_blank">PDF</a>]|
-| Lezioni 12 e 13  | 07/04/2021 - 08/04/2021| NP-completezza | [slides: <a href="./lectures/slides/07_NP_completeness.pdf" target="_blank">PDF</a>]|
+| Lezioni 12 e 13  | 07/04/2021 - 08/04/2021| NP-completezza | [slides: <a href="./lectures/slides/07_NP_Completeness.pdf" target="_blank">PDF</a>]|
