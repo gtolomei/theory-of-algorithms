@@ -3,7 +3,8 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) |
 
 ## News
-- **Ripresa attività didattiche in modalità mista:** In data **8 aprile 2021** il Senato Accademico ha ratificato il Decreto Rettorale n. 969 del 2 aprile 2021 che prevede il ripristino delle attività didattiche in modalità mista (_blended_) al 30%, a partire **da lunedì 12 aprile 2021**.
+- **IMPORTANTE: Ripresa Attività Didattica in Presenza**<br/>
+In data **8 aprile 2021** il Senato Accademico ha ratificato il Decreto Rettorale n. 969 del 2 aprile 2021 che prevede il ripristino delle attività didattiche in modalità mista (_blended_) al 30%, a partire **da lunedì 12 aprile 2021**.
 - **IMPORTANTE: Rinvio Lezione del 14/04/2021**<br/>
 A causa di impegni istituzionali, la lezione di **mercoledì 14 aprile 2021** è rinviata a data da destinarsi.
 - **IMPORTANTE: Sospensione Attività Didattica in Presenza**<br/>
