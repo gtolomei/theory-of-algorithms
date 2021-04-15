@@ -75,7 +75,9 @@ Sebbene il materiale didattico fornito a lezione sia del tutto sufficiente, per 
     - P vs. NP
     - NP-completezza
 
-[**TO BE CONTINUED...**]
+### Parte II
+- Unsupervised Learning
+    - Clustering (K-means)
 
 <hr>
 
@@ -90,3 +92,4 @@ Sebbene il materiale didattico fornito a lezione sia del tutto sufficiente, per 
 | Lezioni 8 e 9  | 18/03/2021 - 24/03/2021| Complessità Computazionale | [slides: <a href="./lectures/slides/05_Complexity.pdf" target="_blank">PDF</a>]|
 | Lezioni 10 e 11  | 25/03/2021 - 31/03/2021| Classi P e NP | [slides: <a href="./lectures/slides/06_P_vs_NP.pdf" target="_blank">PDF</a>]|
 | Lezioni 12 e 13  | 07/04/2021 - 08/04/2021| NP-completezza | [slides: <a href="./lectures/slides/07_NP_Completeness.pdf" target="_blank">PDF</a>]|
+| Lezione 14  | 15/04/2021 | Clustering | [slides: <a href="./lectures/slides/08_Clustering.pdf" target="_blank">PDF</a>]|
