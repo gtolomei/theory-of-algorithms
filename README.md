@@ -55,6 +55,7 @@ Lo studente potrà scegliere tra **due** diverse tipologie di esame:
 Il **seminario** consiste nell'esposizione di un articolo scientifico di riferimento, a scelta tra quelli suggeriti durante il corso o, comunque, concordato preventivamente con il docente. La presentazione, della durata di 45 minuti circa e supportata da slide, dovrà evidenziare i principali risultati teorici e le conseguenti implicazioni pratiche della pubblicazione scientifica in oggetto.
 
 Il **progetto** prevede l'implementazione di uno degli algoritmi analizzati durante il corso e la sua applicazione a un caso d'uso specifico (ad es., implementazione dell'algoritmo K-means e sua applicazione per il clustering di _tweet_). A corredo del progetto, dovrà essere fornita una presentazione in cui si giustifichino le scelte implementative, un'accurata analisi della complessità computazionale, nonché i risultati ottenuti per il caso d'uso scelto.<br/>
+Il linguaggio di programmazione di riferimento è [Python](https://www.python.org/) (versione 3.x) in combinazione con [Jupyter Notebook](https://jupyter.org/). Tuttavia, per evitare di dover installare e configurare l'intero ambiente di sviluppo in locale sulla propria macchina, si consiglia vivamente l'utilizzo di [Google Colab](https://colab.research.google.com/).
 
 ### Libri di Testo Consigliati
 Sebbene il materiale didattico fornito a lezione sia del tutto sufficiente, per eventuali approfondimenti si consigliano i seguenti testi.
