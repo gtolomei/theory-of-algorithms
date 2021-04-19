@@ -89,6 +89,11 @@ Sebbene il materiale didattico fornito a lezione sia del tutto sufficiente, per 
 ### Parte II
 - Unsupervised Learning
     - Clustering (K-means)
+<!--- Supervised Learning
+    - Regressione (OLS)
+    - Classificazione (Logistic Regression)
+- Sistemi di Raccomandazione
+    - Non-Negative Matrix Factorization (ALS)-->
 
 <hr>
 
