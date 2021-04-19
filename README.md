@@ -47,7 +47,14 @@ Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente 
 ### Obiettivi del Corso
 L'obiettivo del corso è duplice: da un lato, intende fornire le basi teoriche della calcolabilità e della complessità computazionale per poter riconoscere quali problemi sono risolvibili da un calcolatore mediante un _algoritmo_ e, per questi problemi, identificare la soluzione algoritmica più efficiente tra tutte quelle eventualmente possibili; dall'altro, si propone di esaminare una serie di algoritmi noti allo stato dell'arte che sono fondamentali per la risoluzione di problemi tipici dei contesti applicativi moderni, quali l'analisi dei dati su larga scala e la costruzione di modelli predittivi attraverso tecniche di _machine learning_. 
 
-### Modalità di Esame [TBA]
+### Modalità di Esame
+Lo studente potrà scegliere tra **due** diverse tipologie di esame:
+-  **seminario**
+-  **progetto**
+
+Il **seminario** consiste nell'esposizione di un articolo scientifico di riferimento, a scelta tra quelli suggeriti durante il corso o, comunque, concordato preventivamente con il docente. La presentazione, della durata di 45 minuti circa e supportata da slide, dovrà evidenziare i principali risultati teorici e le conseguenti implicazioni pratiche della pubblicazione scientifica in oggetto.
+
+Il **progetto** prevede l'implementazione di uno degli algoritmi analizzati durante il corso e la sua applicazione a un caso d'uso specifico (ad es., implementazione dell'algoritmo K-means e sua applicazione per il clustering di _tweet_). A corredo del progetto, dovrà essere fornita una presentazione in cui si giustifichino le scelte implementative, un'accurata analisi della complessità computazionale, nonché i risultati ottenuti per il caso d'uso scelto.<br/>
 
 ### Libri di Testo Consigliati
 Sebbene il materiale didattico fornito a lezione sia del tutto sufficiente, per eventuali approfondimenti si consigliano i seguenti testi.
