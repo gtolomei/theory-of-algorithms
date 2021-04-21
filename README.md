@@ -60,6 +60,8 @@ Il linguaggio di programmazione di riferimento è [Python](https://www.python.or
 Per entrambe le tipologie di esame, è prevista la sottomissione del materiale attraverso un'opportuna sezione della pagina Moodle del corso. In particolare, coloro che decideranno di sostenere la prova mediante seminario, dovranno inviare la presentazione (in formato **pdf**); chi, invece, opterà per lo sviluppo di un progetto software dovrà inviare sia il codice sorgente (sottoforma di file **<code>.ipynb</code>**) e tutte le relative dipendenze (ad es., file esterni utilizzati), che la breve presentazione (in formato **pdf**) a corredo.<br/> 
 Il tutto dovrà avvenire entro i termini indicati per ogni specifica sessione di esame.
 
+Infine, anche coloro che sosterranno l'esame attraverso lo sviluppo di un progetto saranno chiamati a fornire una breve presentazione orale di 15÷20 minuti circa, nella quale verranno esposti gli aspetti più rilevanti del progetto, quali ad esempio: formalizzazione del problema trattato, descrizione della/e soluzione/i adottate, criteri di valutazione, etc.
+
 ### Libri di Testo Consigliati
 Sebbene il materiale didattico fornito a lezione sia del tutto sufficiente, per eventuali approfondimenti si consigliano i seguenti testi.
 - **Teoria della Calcolabilità e Complessità**
