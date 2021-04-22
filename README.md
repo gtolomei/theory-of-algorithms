@@ -112,3 +112,4 @@ Sebbene il materiale didattico fornito a lezione sia del tutto sufficiente, per 
 | Lezioni 12 e 13  | 07/04/2021 - 08/04/2021| NP-completezza | [slides: <a href="./lectures/slides/07_NP_Completeness.pdf" target="_blank">PDF</a>]|
 | Lezione 14  | 15/04/2021 | Clustering | [slides: <a href="./lectures/slides/08_Clustering.pdf" target="_blank">PDF</a>]|
 | Lezione 15  | 21/04/2021 | The Curse of Dimensionality | [slides: <a href="./lectures/slides/09_The_Curse_of_Dimensionality.pdf" target="_blank">PDF</a>]|
+<!--| Lezione 16  | 22/04/2021 | Principal Component Analysis (PCA) | [slides: <a href="./lectures/slides/10_Principal_Component_Analysis.pdf" target="_blank">PDF</a>]|-->
