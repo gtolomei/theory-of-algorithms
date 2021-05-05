@@ -96,7 +96,7 @@ Sebbene il materiale didattico fornito a lezione sia del tutto sufficiente, per 
     - The Curse of Dimensionality + Dimensionality Reduction (PCA)
 - Supervised Learning
     - PAC Learning  
-    - Regressione Lineare (OLS)
+    - Linear Regression (OLS)
 <!--    - Classificazione (Logistic Regression)
 - Sistemi di Raccomandazione
     - Non-Negative Matrix Factorization (ALS)-->
@@ -119,4 +119,4 @@ Sebbene il materiale didattico fornito a lezione sia del tutto sufficiente, per 
 | Lezione 16  | 22/04/2021 | Principal Component Analysis (PCA) | [slides: <a href="./lectures/slides/10_Principal_Component_Analysis.pdf" target="_blank">PDF</a>]|
 | Lezione 17  | 28/04/2021 | Supervised Learning | [slides: <a href="./lectures/slides/11_Supervised_Learning.pdf" target="_blank">PDF</a>]|
 | Lezione 18  | 29/04/2021 | PAC Learning | [slides: <a href="./lectures/slides/12_PAC_Learning.pdf" target="_blank">PDF</a>]|
-| Lezione 19  | 05/05/2021 | Regressione Lineare (OLS) | [slides: <a href="./lectures/slides/13_Linear_Regression.pdf" target="_blank">PDF</a>]|
+| Lezione 19  | 05/05/2021 | Linear Regression (OLS) | [slides: <a href="./lectures/slides/13_Linear_Regression.pdf" target="_blank">PDF</a>]|
