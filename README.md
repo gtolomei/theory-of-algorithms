@@ -123,4 +123,4 @@ Sebbene il materiale didattico fornito a lezione sia del tutto sufficiente, per 
 | Lezione 17  | 28/04/2021 | Supervised Learning | [slides: <a href="./lectures/slides/11_Supervised_Learning.pdf" target="_blank">PDF</a>]|
 | Lezione 18  | 29/04/2021 | PAC Learning | [slides: <a href="./lectures/slides/12_PAC_Learning.pdf" target="_blank">PDF</a>]|
 | Lezione 19  | 05/05/2021 | Linear Regression (OLS) | [slides: <a href="./lectures/slides/13_Linear_Regression.pdf" target="_blank">PDF</a>]|
-| Lezione 20  | 06/05/2021 | Logistic Regression (Gradient Descent) | [slides: <a href="./lectures/slides/14_Logistic_Regression.pdf" target="_blank">PDF</a>]|
+| Lezioni 20 e 21  | 06/05/2021 - 12/05/2021 | Logistic Regression (Gradient Descent) | [slides: <a href="./lectures/slides/14_Logistic_Regression.pdf" target="_blank">PDF</a>]|
