@@ -67,6 +67,17 @@ Il tutto dovrà avvenire entro i termini indicati per ogni specifica sessione di
 
 Infine, anche coloro che sosterranno l'esame attraverso lo sviluppo di un progetto saranno chiamati a fornire una breve presentazione orale di 15÷20 minuti circa, nella quale verranno esposti gli aspetti più rilevanti del progetto, quali ad esempio: formalizzazione del problema trattato, descrizione della/e soluzione/i adottate, criteri di valutazione, etc.
 
+#### Idee per Seminari
+La letteratura offre moltissimi spunti interessanti che possono costituire oggetto di seminari per il superamento della prova d'esame. Senza alcuna pretesa di esaustività, la lista di seguito fornisce alcuni riferimenti utili a cui attingere liberamente:
+
+- Kaufman, L., and Rousseeuw, P. J. [_Clustering by Means of Medoids_](https://wis.kuleuven.be/stat/robust/papers/publications-1987/kaufmanrousseeuw-clusteringbymedoids-l1norm-1987.pdf) (1987)
+- Bradley, P. S., Fayyad, U., and Reina, C. [_Scaling Clustering Algorithms to Large Databases_](https://www.aaai.org/Papers/KDD/1998/KDD98-002.pdf) (KDD 1998)
+- -  Kleinberg, J. [_An Impossibility Theorem for Clustering_](https://papers.nips.cc/paper/2002/file/43e4e6a6f341e00671e123714de019a8-Paper.pdf) (NIPS 2002)
+- Arthur, D., and Vassilvitskii, S. [_k-means++: The Advantages of Careful Seeding_](https://theory.stanford.edu/~sergei/papers/kMeansPP-soda.pdf) (SODA 2007)
+- Mahajana, M., Nimbhorkara, P., and Varadarajan, K. [_The planar k-means problem is NP- hard_](https://www.sciencedirect.com/science/article/pii/S0304397510003269) (Theoretical Computer Science, vol. 442, 2012)
+
+
+
 ### Libri di Testo Consigliati
 Sebbene il materiale didattico fornito a lezione sia del tutto sufficiente, per eventuali approfondimenti si consigliano i seguenti testi.
 - **Teoria della Calcolabilità e Complessità**
