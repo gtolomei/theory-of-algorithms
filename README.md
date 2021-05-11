@@ -76,9 +76,9 @@ La letteratura offre moltissimi spunti interessanti che possono costituire ogget
 - Rabin, M. [_Probabilistic Algorithm for Testing Primality_](https://www.sciencedirect.com/science/article/pii/0022314X80900840) (Journal of Number Theory, 1980)
 - Kaufman, L., and Rousseeuw, P. J. [_Clustering by Means of Medoids_](https://wis.kuleuven.be/stat/robust/papers/publications-1987/kaufmanrousseeuw-clusteringbymedoids-l1norm-1987.pdf) (1987)
 - Arora, S. and Safra, S. [_Probabilistic Checking of Proofs: A New Characterization of NP_](https://www.cs.umd.edu/~gasarch/TOPICS/pcp/AS.pdf) (Journal of the ACM, 1998)
-- Bradley, P. S., Fayyad, U., and Reina, C. [_Scaling Clustering Algorithms to Large Databases_](https://www.aaai.org/Papers/KDD/1998/KDD98-002.pdf) (KDD 1998)
-- Kleinberg, J. [_An Impossibility Theorem for Clustering_](https://papers.nips.cc/paper/2002/file/43e4e6a6f341e00671e123714de019a8-Paper.pdf) (NIPS 2002)
-- Arthur, D., and Vassilvitskii, S. [_k-means++: The Advantages of Careful Seeding_](https://theory.stanford.edu/~sergei/papers/kMeansPP-soda.pdf) (SODA 2007)
+- Bradley, P. S., Fayyad, U., and Reina, C. [_Scaling Clustering Algorithms to Large Databases_](https://www.aaai.org/Papers/KDD/1998/KDD98-002.pdf) (KDD, 1998)
+- Kleinberg, J. [_An Impossibility Theorem for Clustering_](https://papers.nips.cc/paper/2002/file/43e4e6a6f341e00671e123714de019a8-Paper.pdf) (NIPS, 2002)
+- Arthur, D., and Vassilvitskii, S. [_k-means++: The Advantages of Careful Seeding_](https://theory.stanford.edu/~sergei/papers/kMeansPP-soda.pdf) (SODA, 2007)
 - Mahajana, M., Nimbhorkara, P., and Varadarajan, K. [_The Planar k-means Problem is NP-hard_](https://www.sciencedirect.com/science/article/pii/S0304397510003269) (Theoretical Computer Science, vol. 442, 2012)
 
 
