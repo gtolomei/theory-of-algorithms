@@ -117,6 +117,7 @@ Sebbene il materiale didattico fornito a lezione sia del tutto sufficiente, per 
     - PAC Learning  
     - Linear Regression (OLS)
     - Logistic Regression (Gradient Descent)
+    - Decision Trees (Recursive Binary Splitting)
 <!--- Sistemi di Raccomandazione
     - Non-Negative Matrix Factorization (ALS)-->
 
@@ -140,3 +141,4 @@ Sebbene il materiale didattico fornito a lezione sia del tutto sufficiente, per 
 | Lezione 18  | 29/04/2021 | PAC Learning | [slides: <a href="./lectures/slides/12_PAC_Learning.pdf" target="_blank">PDF</a>]|
 | Lezione 19  | 05/05/2021 | Linear Regression (OLS) | [slides: <a href="./lectures/slides/13_Linear_Regression.pdf" target="_blank">PDF</a>]|
 | Lezioni 20 e 21  | 06/05/2021 - 12/05/2021 | Logistic Regression (Gradient Descent) | [slides: <a href="./lectures/slides/14_Logistic_Regression.pdf" target="_blank">PDF</a>]|
+| Lezione 22  | 13/05/2021 | Decision Trees (Recursive Binary Splitting) | [slides: <a href="./lectures/slides/15_Decision_Trees_and_Ensembles.pdf" target="_blank">PDF</a>]|
