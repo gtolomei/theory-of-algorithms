@@ -93,6 +93,7 @@ La letteratura offre moltissimi spunti interessanti che possono costituire ogget
     - Hyafil, L., Rivest, R., L. [Constructing Optimal Binary Decision Trees is NP-Complete](https://people.csail.mit.edu/rivest/HyafilRivest-ConstructingOptimalBinaryDecisionTreesIsNPComplete.pdf) (Information Processing Letters, 1976)
     - Mingers, J. [An Empirical Comparison of Pruning Methods
 for Decision Tree Induction](https://link.springer.com/content/pdf/10.1023/A:1022604100933.pdf) (Machine Learning, 1989)
+    - Breiman, L. [Bagging Predictors](https://link.springer.com/content/pdf/10.1007/BF00058655.pdf) (Machine Learning, 1996)
 
 
 
