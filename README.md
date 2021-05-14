@@ -89,6 +89,9 @@ La letteratura offre moltissimi spunti interessanti che possono costituire ogget
     - Blumer, A., Ehrenfeucht, A., Haussler, D., and Warmuth, M., K. [Learnability and the Vapnik-Chervonenkis Dimension](http://www2.denizyuret.com/ref/blumer/ft_gateway.cfm.pdf) (Journal of the ACM, 1989)
     - Haussler, D. [Probably Approximately Correct Learning](https://www.aaai.org/Papers/AAAI/1990/AAAI90-163.pdf) (AAAI, 1990)
 
+- **Decision Trees**
+    - Hyafil, L., Rivest, R., L. [Constructing Optimal Binary Decision Trees is NP-Complete](https://people.csail.mit.edu/rivest/HyafilRivest-ConstructingOptimalBinaryDecisionTreesIsNPComplete.pdf) (Information Processing Letters, 1976)
+
 
 
 ### Libri di Testo Consigliati
