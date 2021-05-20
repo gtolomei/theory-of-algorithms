@@ -156,4 +156,5 @@ Sebbene il materiale didattico fornito a lezione sia del tutto sufficiente, per 
 | Lezione 19  | 05/05/2021 | Linear Regression (OLS) | [slides: <a href="./lectures/slides/13_Linear_Regression.pdf" target="_blank">PDF</a>]|
 | Lezioni 20 e 21  | 06/05/2021 - 12/05/2021 | Logistic Regression (Gradient Descent) | [slides: <a href="./lectures/slides/14_Logistic_Regression.pdf" target="_blank">PDF</a>]|
 | Lezione 22  | 13/05/2021 | Decision Trees (Recursive Binary Splitting) | [slides: <a href="./lectures/slides/15_Decision_Trees_and_Ensembles.pdf" target="_blank">PDF</a>]|
-| Lezione 23  | 13/05/2021 | Graph Analysis | [slides: <a href="./lectures/slides/16_Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
+| Lezione 23  | 19/05/2021 | Graph Analysis | [slides: <a href="./lectures/slides/16_Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
+| Lezione 23  | 20/05/2021 | Graph Analysis | [slides: <a href="./lectures/slides/17_Page_Rank.pdf" target="_blank">PDF</a>]|
