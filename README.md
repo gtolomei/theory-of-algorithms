@@ -150,11 +150,11 @@ Sebbene il materiale didattico fornito a lezione sia del tutto sufficiente, per 
 | Lezioni 12 e 13  | 07/04/2021 - 08/04/2021| NP-completezza | [slides: <a href="./lectures/slides/07_NP_Completeness.pdf" target="_blank">PDF</a>]|
 | Lezione 14  | 15/04/2021 | Clustering | [slides: <a href="./lectures/slides/08_Clustering.pdf" target="_blank">PDF</a>]|
 | Lezione 15  | 21/04/2021 | The Curse of Dimensionality | [slides: <a href="./lectures/slides/09_The_Curse_of_Dimensionality.pdf" target="_blank">PDF</a>]|
-| Lezione 16  | 22/04/2021 | Principal Component Analysis (PCA) | [slides: <a href="./lectures/slides/10_Principal_Component_Analysis.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Principal_Component_Analysis.pdf" target="_blank">PDF</a>]|
+| Lezione 16  | 22/04/2021 | Principal Component Analysis (PCA) | [slides: <a href="./lectures/slides/10_Principal_Component_Analysis.pdf" target="_blank">PDF</a>, notes: <a href="./extras/Notes_on_Principal_Component_Analysis.pdf" target="_blank">PDF</a>]|
 | Lezione 17  | 28/04/2021 | Supervised Learning | [slides: <a href="./lectures/slides/11_Supervised_Learning.pdf" target="_blank">PDF</a>]|
 | Lezione 18  | 29/04/2021 | PAC Learning | [slides: <a href="./lectures/slides/12_PAC_Learning.pdf" target="_blank">PDF</a>]|
 | Lezione 19  | 05/05/2021 | Linear Regression (OLS) | [slides: <a href="./lectures/slides/13_Linear_Regression.pdf" target="_blank">PDF</a>]|
-| Lezioni 20 e 21  | 06/05/2021 - 12/05/2021 | Logistic Regression (Gradient Descent) | [slides: <a href="./lectures/slides/14_Logistic_Regression.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Logistic_Regression.pdf" target="_blank">PDF</a>]|
+| Lezioni 20 e 21  | 06/05/2021 - 12/05/2021 | Logistic Regression (Gradient Descent) | [slides: <a href="./lectures/slides/14_Logistic_Regression.pdf" target="_blank">PDF</a>, notes: <a href="./extras/Notes_on_Logistic_Regression.pdf" target="_blank">PDF</a>]|
 | Lezione 22  | 13/05/2021 | Decision Trees (Recursive Binary Splitting) | [slides: <a href="./lectures/slides/15_Decision_Trees_and_Ensembles.pdf" target="_blank">PDF</a>]|
 | Lezione 23  | 19/05/2021 | Graph Analysis | [slides: <a href="./lectures/slides/16_Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
-| Lezione 24  | 20/05/2021 | Algoritmo PageRank | [slides: <a href="./lectures/slides/17_PageRank.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_PageRank.pdf" target="_blank">PDF</a>]|
+| Lezione 24  | 20/05/2021 | Algoritmo PageRank | [slides: <a href="./lectures/slides/17_PageRank.pdf" target="_blank">PDF</a>, notes: <a href="./extras/Notes_on_PageRank.pdf" target="_blank">PDF</a>]|
