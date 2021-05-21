@@ -68,7 +68,7 @@ Il tutto dovrà avvenire entro i termini indicati per ogni specifica sessione di
 Infine, anche coloro che sosterranno l'esame attraverso lo sviluppo di un progetto saranno chiamati a fornire una breve presentazione orale di 15÷20 minuti circa, nella quale verranno esposti gli aspetti più rilevanti del progetto, quali ad esempio: formalizzazione del problema trattato, descrizione della/e soluzione/i adottate, criteri di valutazione, etc.
 
 #### Idee per Seminari
-La letteratura offre moltissimi spunti interessanti che possono costituire oggetto di seminari per il superamento della prova d'esame. Senza alcuna pretesa di esaustività, la lista di seguito fornisce alcuni riferimenti utili a cui attingere liberamente; si incoraggiano comunque le studentesse e gli studenti a proporre seminari su articoli scientifici al di fuori degli di quelli qui suggeriti.<br>
+La letteratura offre moltissimi spunti interessanti che possono costituire oggetto di seminari per il superamento della prova d'esame. Senza alcuna pretesa di esaustività, la lista di seguito fornisce alcuni riferimenti utili a cui attingere liberamente; si incoraggiano comunque le studentesse e gli studenti a proporre seminari su articoli scientifici al di fuori di quelli qui suggeriti.<br>
 (Gli elementi <strike>depennati</strike> indicano gli argomenti che sono già stati scelti e, pertanto, non più disponibili)
 
 - **Theory of Computation**
