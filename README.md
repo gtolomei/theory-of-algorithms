@@ -68,7 +68,8 @@ Il tutto dovrà avvenire entro i termini indicati per ogni specifica sessione di
 Infine, anche coloro che sosterranno l'esame attraverso lo sviluppo di un progetto saranno chiamati a fornire una breve presentazione orale di 15÷20 minuti circa, nella quale verranno esposti gli aspetti più rilevanti del progetto, quali ad esempio: formalizzazione del problema trattato, descrizione della/e soluzione/i adottate, criteri di valutazione, etc.
 
 #### Idee per Seminari
-La letteratura offre moltissimi spunti interessanti che possono costituire oggetto di seminari per il superamento della prova d'esame. Senza alcuna pretesa di esaustività, la lista di seguito fornisce alcuni riferimenti utili a cui attingere liberamente, elencati in ordine cronologico (gli elementi <strike>depennati</strike> indicano gli argomenti che sono già stati scelti e, pertanto, non più disponibili):
+La letteratura offre moltissimi spunti interessanti che possono costituire oggetto di seminari per il superamento della prova d'esame. Senza alcuna pretesa di esaustività, la lista di seguito fornisce alcuni riferimenti utili a cui attingere liberamente; si incoraggiano comunque le studentesse e gli studenti a proporre seminari su articoli scientifici al di fuori degli di quelli qui suggeriti.<br>
+(Gli elementi <strike>depennati</strike> indicano gli argomenti che sono già stati scelti e, pertanto, non più disponibili)
 
 - **Theory of Computation**
     - Turing, A. [_On Computable Numbers, with an Application to the Entscheidungsproblem_](http://www.cs.ox.ac.uk/activities/ieg/e-library/sources/tp2-ie.pdf)(Proceedings of the London Mathematical Society, Series 2, vol. 42, 1937)
@@ -86,7 +87,7 @@ La letteratura offre moltissimi spunti interessanti che possono costituire ogget
 
 - **Learning Theory**
     - Valiant, L. G. [A Theory of the Learnable](http://web.mit.edu/6.435/www/Valiant84.pdf) (Communications of the ACM, 1984)
-    - Rumelhart, D. E., Hinton, G. E., and Williams, R. J. [Learning representations by back-propagating errors](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf) (Nature, 1986)
+    - Rumelhart, D. E., Hinton, G. E., and Williams, R. J. [Learning Representations by Back-Propagating Errors](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf) (Nature, 1986)
     - Blumer, A., Ehrenfeucht, A., Haussler, D., and Warmuth, M. K. [Learnability and the Vapnik-Chervonenkis Dimension](http://www2.denizyuret.com/ref/blumer/ft_gateway.cfm.pdf) (Journal of the ACM, 1989)
     - Haussler, D. [Probably Approximately Correct Learning](https://www.aaai.org/Papers/AAAI/1990/AAAI90-163.pdf) (AAAI, 1990)
     - Bottou, L. [Online Algorithms and Stochastic Approximations](https://leon.bottou.org/publications/pdf/online-1998.pdf) (Online Learning and Networks, 1998)
@@ -96,6 +97,11 @@ La letteratura offre moltissimi spunti interessanti che possono costituire ogget
     - Mingers, J. [An Empirical Comparison of Pruning Methods
 for Decision Tree Induction](https://link.springer.com/content/pdf/10.1023/A:1022604100933.pdf) (Machine Learning, 1989)
     - Breiman, L. [Bagging Predictors](https://link.springer.com/content/pdf/10.1007/BF00058655.pdf) (Machine Learning, 1996)
+    
+- **Graph Analysis**
+    - Brin, S. and Page, L. [The Anatomy of a Large-Scale Hypertextual Web Search Engine](https://research.google/pubs/pub334.pdf) (Computer Networks, 1998)
+    - Kleinberg, J. [Authoritative Sources in a Hyperlinked Environment](http://www.cs.cornell.edu/home/kleinber/auth.pdf) (Journal of the ACM, 1999)
+    - Barabási, A. L. and Albert, R. [Emergence of Scaling in Random Networks](https://barabasi.com/f/67.pdf) (Science, 1999)
 
 
 
