@@ -73,7 +73,7 @@ La letteratura offre moltissimi spunti interessanti che possono costituire ogget
 - **Theory of Computation**
     - Turing, A. [_On Computable Numbers, with an Application to the Entscheidungsproblem_](http://www.cs.ox.ac.uk/activities/ieg/e-library/sources/tp2-ie.pdf)(Proceedings of the London Mathematical Society, Series 2, vol. 42, 1937)
     - <strike>Held, M. and Karp, R. M. [_The Traveling-Salesman Problem and Minimum Spanning Trees_](https://www.cse.wustl.edu/~ychen/7102/Karp-TSP.pdf) (Operations Research, 1970)</strike>
-    - Cook, S., A. [_The Complexity of Theorem Proving Procedures_](http://www.cs.toronto.edu/~sacook/homepage/1971.pdf) (Theory of Computing, 1971)
+    - Cook, S. A. [_The Complexity of Theorem Proving Procedures_](http://www.cs.toronto.edu/~sacook/homepage/1971.pdf) (Theory of Computing, 1971)
     - Rabin, M. [_Probabilistic Algorithm for Testing Primality_](https://www.sciencedirect.com/science/article/pii/0022314X80900840) (Journal of Number Theory, 1980)
     - Arora, S. and Safra, S. [_Probabilistic Checking of Proofs: A New Characterization of NP_](https://www.cs.umd.edu/~gasarch/TOPICS/pcp/AS.pdf) (Journal of the ACM, 1998)
 
@@ -85,14 +85,14 @@ La letteratura offre moltissimi spunti interessanti che possono costituire ogget
     - <strike>Mahajana, M., Nimbhorkara, P., and Varadarajan, K. [_The Planar k-means Problem is NP-hard_](https://www.sciencedirect.com/science/article/pii/S0304397510003269) (Theoretical Computer Science, vol. 442, 2012)</strike>
 
 - **Learning Theory**
-    - Valiant, L., G. [A Theory of the Learnable](http://web.mit.edu/6.435/www/Valiant84.pdf) (Communications of the ACM, 1984)
-    - Rumelhart, D., E. [Learning representations by back-propagating errors](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf) (Nature, 1986)
-    - Blumer, A., Ehrenfeucht, A., Haussler, D., and Warmuth, M., K. [Learnability and the Vapnik-Chervonenkis Dimension](http://www2.denizyuret.com/ref/blumer/ft_gateway.cfm.pdf) (Journal of the ACM, 1989)
+    - Valiant, L. G. [A Theory of the Learnable](http://web.mit.edu/6.435/www/Valiant84.pdf) (Communications of the ACM, 1984)
+    - Rumelhart, D. E., Hinton, G. E., and Williams, R. J. [Learning representations by back-propagating errors](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf) (Nature, 1986)
+    - Blumer, A., Ehrenfeucht, A., Haussler, D., and Warmuth, M. K. [Learnability and the Vapnik-Chervonenkis Dimension](http://www2.denizyuret.com/ref/blumer/ft_gateway.cfm.pdf) (Journal of the ACM, 1989)
     - Haussler, D. [Probably Approximately Correct Learning](https://www.aaai.org/Papers/AAAI/1990/AAAI90-163.pdf) (AAAI, 1990)
     - Bottou, L. [Online Algorithms and Stochastic Approximations](https://leon.bottou.org/publications/pdf/online-1998.pdf) (Online Learning and Networks, 1998)
 
 - **Decision Trees**
-    - Hyafil, L., Rivest, R., L. [Constructing Optimal Binary Decision Trees is NP-Complete](https://people.csail.mit.edu/rivest/HyafilRivest-ConstructingOptimalBinaryDecisionTreesIsNPComplete.pdf) (Information Processing Letters, 1976)
+    - Hyafil, L., Rivest, R. L. [Constructing Optimal Binary Decision Trees is NP-Complete](https://people.csail.mit.edu/rivest/HyafilRivest-ConstructingOptimalBinaryDecisionTreesIsNPComplete.pdf) (Information Processing Letters, 1976)
     - Mingers, J. [An Empirical Comparison of Pruning Methods
 for Decision Tree Induction](https://link.springer.com/content/pdf/10.1023/A:1022604100933.pdf) (Machine Learning, 1989)
     - Breiman, L. [Bagging Predictors](https://link.springer.com/content/pdf/10.1007/BF00058655.pdf) (Machine Learning, 1996)
