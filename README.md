@@ -88,6 +88,7 @@ La letteratura offre moltissimi spunti interessanti che possono costituire ogget
     - Valiant, L., G. [A Theory of the Learnable](http://web.mit.edu/6.435/www/Valiant84.pdf) (Communications of the ACM, 1984)
     - Blumer, A., Ehrenfeucht, A., Haussler, D., and Warmuth, M., K. [Learnability and the Vapnik-Chervonenkis Dimension](http://www2.denizyuret.com/ref/blumer/ft_gateway.cfm.pdf) (Journal of the ACM, 1989)
     - Haussler, D. [Probably Approximately Correct Learning](https://www.aaai.org/Papers/AAAI/1990/AAAI90-163.pdf) (AAAI, 1990)
+    - Bottou, L. [Online Algorithms and Stochastic Approximations](https://leon.bottou.org/publications/pdf/online-1998.pdf) (Online Learning and Networks, 1998)
 
 - **Decision Trees**
     - Hyafil, L., Rivest, R., L. [Constructing Optimal Binary Decision Trees is NP-Complete](https://people.csail.mit.edu/rivest/HyafilRivest-ConstructingOptimalBinaryDecisionTreesIsNPComplete.pdf) (Information Processing Letters, 1976)
