@@ -75,7 +75,7 @@ La letteratura offre moltissimi spunti interessanti che possono costituire ogget
     - Turing, A. [_On Computable Numbers, with an Application to the Entscheidungsproblem_](http://www.cs.ox.ac.uk/activities/ieg/e-library/sources/tp2-ie.pdf)(Proceedings of the London Mathematical Society, Series 2, vol. 42, 1937)
     - <strike>Held, M. and Karp, R. M. [_The Traveling-Salesman Problem and Minimum Spanning Trees_](https://www.cse.wustl.edu/~ychen/7102/Karp-TSP.pdf) (Operations Research, 1970)</strike>
     - Cook, S. A. [_The Complexity of Theorem Proving Procedures_](http://www.cs.toronto.edu/~sacook/homepage/1971.pdf) (Theory of Computing, 1971)
-    - Rabin, M. [_Probabilistic Algorithm for Testing Primality_](https://www.sciencedirect.com/science/article/pii/0022314X80900840) (Journal of Number Theory, 1980)
+    - <strike>Rabin, M. [_Probabilistic Algorithm for Testing Primality_](https://www.sciencedirect.com/science/article/pii/0022314X80900840) (Journal of Number Theory, 1980)</strike>
     - Arora, S. and Safra, S. [_Probabilistic Checking of Proofs: A New Characterization of NP_](https://www.cs.umd.edu/~gasarch/TOPICS/pcp/AS.pdf) (Journal of the ACM, 1998)
 
 - **Clustering**
