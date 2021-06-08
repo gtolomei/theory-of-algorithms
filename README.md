@@ -4,7 +4,7 @@
 
 ## News
 - **I Appello del 18/6/2021 + II Appello del 5/7/2021**<br/>
-È possibile iscriversi agli appelli su Infostud (verbale **765584** e **765588**, rispettivamente).
+È possibile iscriversi agli appelli su Infostud (verbale **770153** e **770156**, rispettivamente).
 - **IMPORTANTE: Ripresa Attività Didattica in Presenza**<br/>
 In data **8 aprile 2021** il Senato Accademico ha ratificato il Decreto Rettorale n. 969 del 2 aprile 2021 che prevede il ripristino delle attività didattiche in modalità mista (_blended_) al 30%, a partire **da lunedì 12 aprile 2021**.
 - **IMPORTANTE: Rinvio Lezione del 14/04/2021**<br/>
