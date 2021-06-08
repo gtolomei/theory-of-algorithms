@@ -80,7 +80,7 @@ La letteratura offre moltissimi spunti interessanti che possono costituire ogget
 
 - **Clustering**
     - Kaufman, L., and Rousseeuw, P. J. [_Clustering by Means of Medoids_](https://wis.kuleuven.be/stat/robust/papers/publications-1987/kaufmanrousseeuw-clusteringbymedoids-l1norm-1987.pdf) (1987)
-    - Bradley, P. S., Fayyad, U., and Reina, C. [_Scaling Clustering Algorithms to Large Databases_](https://www.aaai.org/Papers/KDD/1998/KDD98-002.pdf) (KDD, 1998)
+    - <strike>Bradley, P. S., Fayyad, U., and Reina, C. [_Scaling Clustering Algorithms to Large Databases_](https://www.aaai.org/Papers/KDD/1998/KDD98-002.pdf) (KDD, 1998)</strike>
     - <strike>Kleinberg, J. [_An Impossibility Theorem for Clustering_](https://papers.nips.cc/paper/2002/file/43e4e6a6f341e00671e123714de019a8-Paper.pdf) (NIPS, 2002)</strike>
     - Arthur, D., and Vassilvitskii, S. [_k-means++: The Advantages of Careful Seeding_](https://theory.stanford.edu/~sergei/papers/kMeansPP-soda.pdf) (SODA, 2007)
     - <strike>Mahajana, M., Nimbhorkara, P., and Varadarajan, K. [_The Planar k-means Problem is NP-hard_](https://www.sciencedirect.com/science/article/pii/S0304397510003269) (Theoretical Computer Science, vol. 442, 2012)</strike>
