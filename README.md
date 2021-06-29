@@ -6,7 +6,7 @@
 - **II Appello del 5/7/2021: Informazioni Utili**<br/>
 L'appello si svolgerà interamente in **modalità a distanza** tramite piattaforma Google Meet, collegandosi al seguente [link](https://meet.google.com/qoi-rzbh-ezf) a partire **dalle ore 9:30**.
 - **I Appello del 18/6/2021: Esiti**<br/>
-Gli esiti del I appello sono disponibili al seguente [link](./exams/2020-21/2021-06-18_esiti.pdf)
+Gli esiti del I appello sono disponibili al seguente [link](./exams/2020-21/2021-06-18_esiti.pdf).
 - **I Appello del 18/6/2021: Informazioni Utili**<br/>
 L'appello si svolgerà interamente in **modalità a distanza** tramite piattaforma Google Meet, collegandosi al seguente [link](https://meet.google.com/qoi-rzbh-ezf) a partire **dalle ore 9:30**.
 - **I Appello del 18/6/2021 + II Appello del 5/7/2021**<br/>
