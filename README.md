@@ -3,6 +3,12 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) |
 
 ## News
+- **II Appello del 5/7/2021: Informazioni Utili**<br/>
+L'appello si svolgerà interamente in **modalità a distanza** tramite piattaforma Google Meet, collegandosi al seguente [link](https://meet.google.com/qoi-rzbh-ezf) a partire **dalle ore 9:30**.
+<!--- **I Appello del 18/6/2021: Esiti**<br/>
+Gli esiti del I appello sono disponibili al seguente [link](./exams/)-->
+- **I Appello del 18/6/2021: Informazioni Utili**<br/>
+L'appello si svolgerà interamente in **modalità a distanza** tramite piattaforma Google Meet, collegandosi al seguente [link](https://meet.google.com/qoi-rzbh-ezf) a partire **dalle ore 9:30**.
 - **I Appello del 18/6/2021 + II Appello del 5/7/2021**<br/>
 È possibile iscriversi agli appelli su Infostud (verbale **770153** e **770156**, rispettivamente).
 - **IMPORTANTE: Ripresa Attività Didattica in Presenza**<br/>
