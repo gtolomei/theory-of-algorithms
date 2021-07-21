@@ -3,6 +3,8 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) |
 
 ## News
+- **III Appello del 2/9/2021 + IV Appello del 9/9/2021**<br/>
+È possibile iscriversi agli appelli su Infostud (verbale **772779** e **772780**, rispettivamente).
 - **II Appello del 5/7/2021: Esiti**<br/>
 Gli esiti del II appello sono disponibili al seguente [link](./exams/2020-21/2021-07-05_esiti.pdf).
 - **II Appello del 5/7/2021: Informazioni Utili**<br/>
