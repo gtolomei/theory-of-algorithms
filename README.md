@@ -3,6 +3,14 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) |
 
 ## News
+<!--- **IV Appello del 9/9/2021: Esiti**<br/>
+Gli esiti del III appello sono disponibili al seguente [link](./exams/2020-21/2021-09-09_esiti.pdf).-->
+- **IV Appello del 9/9/2021: Informazioni Utili**<br/>
+L'appello si svolgerà interamente in **modalità a distanza** tramite piattaforma Google Meet, collegandosi al seguente [link](https://meet.google.com/qoi-rzbh-ezf) a partire **dalle ore 9:00**.
+- **III Appello del 2/9/2021: Esiti**<br/>
+Gli esiti del III appello sono disponibili al seguente [link](./exams/2020-21/2021-09-02_esiti.pdf).
+- **III Appello del 2/9/2021: Informazioni Utili**<br/>
+L'appello si svolgerà interamente in **modalità a distanza** tramite piattaforma Google Meet, collegandosi al seguente [link](https://meet.google.com/qoi-rzbh-ezf) a partire **dalle ore 9:30**.
 - **III Appello del 2/9/2021 + IV Appello del 9/9/2021**<br/>
 È possibile iscriversi agli appelli su Infostud (verbale **772779** e **772780**, rispettivamente).
 - **II Appello del 5/7/2021: Esiti**<br/>
