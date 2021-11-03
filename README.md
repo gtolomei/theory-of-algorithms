@@ -6,7 +6,7 @@
 - **Appello starordinario del 2/11/2021: Esiti**<br/>
 Gli esiti dell'appello straordinario sono disponibili al seguente [link](./exams/2020-21/2021-11-02_esiti.pdf).
 - **Appello starordinario del 2/11/2021: Informazioni Utili**<br/>
-L'appello si svolgerà interamente in **presenza** il giorno **martedì 2 novembre 2021** alle ore **16:00** presso l'Aula G50, situata al III piano dell'edificio G di Viale Regina Elena, 295.
+L'appello si svolgerà interamente in **presenza** il giorno **martedì 2 novembre 2021** alle ore **16:00** presso l'Aula G50, situata al III piano dell'edificio G di Viale Regina Elena, 295.<br/>
 **IV Appello del 9/9/2021: Esiti**<br/>
 Gli esiti del IV appello sono disponibili al seguente [link](./exams/2020-21/2021-09-09_esiti.pdf).
 - **IV Appello del 9/9/2021: Informazioni Utili**<br/>
