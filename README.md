@@ -3,10 +3,12 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) |
 
 ## News
-<!--- **IV Appello del 9/9/2021: Esiti**<br/>
-Gli esiti del III appello sono disponibili al seguente [link](./exams/2020-21/2021-09-09_esiti.pdf).-->
 - **Appello starordinario del 2/11/2021: Esiti**<br/>
 Gli esiti dell'appello straordinario sono disponibili al seguente [link](./exams/2020-21/2021-11-02_esiti.pdf).
+- **Appello starordinario del 2/11/2021: Informazioni Utili**<br/>
+L'appello si svolgerà interamente in **presenza** il giorno **martedì 2 novembre 2021** alle ore **16:00** presso l'Aula G50, situata al III piano dell'edificio G di Viale Regina Elena, 295.
+**IV Appello del 9/9/2021: Esiti**<br/>
+Gli esiti del IV appello sono disponibili al seguente [link](./exams/2020-21/2021-09-09_esiti.pdf).
 - **IV Appello del 9/9/2021: Informazioni Utili**<br/>
 L'appello si svolgerà interamente in **modalità a distanza** tramite piattaforma Google Meet, collegandosi al seguente [link](https://meet.google.com/qoi-rzbh-ezf) a partire **dalle ore 9:00**.
 - **III Appello del 2/9/2021: Esiti**<br/>
