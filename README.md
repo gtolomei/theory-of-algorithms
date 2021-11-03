@@ -5,6 +5,8 @@
 ## News
 <!--- **IV Appello del 9/9/2021: Esiti**<br/>
 Gli esiti del III appello sono disponibili al seguente [link](./exams/2020-21/2021-09-09_esiti.pdf).-->
+- **Appello starordinario del 2/11/2021: Esiti**<br/>
+Gli esiti dell'appello straordinario sono disponibili al seguente [link](./exams/2020-21/2021-11-02_esiti.pdf).
 - **IV Appello del 9/9/2021: Informazioni Utili**<br/>
 L'appello si svolgerà interamente in **modalità a distanza** tramite piattaforma Google Meet, collegandosi al seguente [link](https://meet.google.com/qoi-rzbh-ezf) a partire **dalle ore 9:00**.
 - **III Appello del 2/9/2021: Esiti**<br/>
