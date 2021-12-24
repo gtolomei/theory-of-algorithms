@@ -112,7 +112,7 @@ La letteratura offre moltissimi spunti interessanti che possono costituire ogget
     - Rumelhart, D. E., Hinton, G. E., and Williams, R. J. [Learning Representations by Back-Propagating Errors](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf) (Nature, 1986)
     - Blumer, A., Ehrenfeucht, A., Haussler, D., and Warmuth, M. K. [Learnability and the Vapnik-Chervonenkis Dimension](http://www2.denizyuret.com/ref/blumer/ft_gateway.cfm.pdf) (Journal of the ACM, 1989)
     - <strike>Haussler, D. [Probably Approximately Correct Learning](https://www.aaai.org/Papers/AAAI/1990/AAAI90-163.pdf) (AAAI, 1990)</strike>
-    - <strike>Bottou, L. [Online Algorithms and Stochastic Approximations](https://leon.bottou.org/publications/pdf/online-1998.pdf) (Online Learning and Networks, 1998)</strike>
+    - <strike>Bottou, L. [Online Learning and Stochastic Approximations](https://leon.bottou.org/publications/pdf/online-1998.pdf) (Online Learning and Networks, 1998)</strike>
 
 - **Decision Trees**
     - Hyafil, L., Rivest, R. L. [Constructing Optimal Binary Decision Trees is NP-Complete](https://people.csail.mit.edu/rivest/HyafilRivest-ConstructingOptimalBinaryDecisionTreesIsNPComplete.pdf) (Information Processing Letters, 1976)
