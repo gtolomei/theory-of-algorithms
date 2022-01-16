@@ -122,7 +122,7 @@ for Decision Tree Induction](https://link.springer.com/content/pdf/10.1023/A:102
     
 - **Graph Analysis**
     - <strike>Brin, S. and Page, L. [The Anatomy of a Large-Scale Hypertextual Web Search Engine](https://research.google/pubs/pub334.pdf) (Computer Networks, 1998)</strike>
-    - Kleinberg, J. [Authoritative Sources in a Hyperlinked Environment](http://www.cs.cornell.edu/home/kleinber/auth.pdf) (Journal of the ACM, 1999)
+    - <strike>Kleinberg, J. [Authoritative Sources in a Hyperlinked Environment](http://www.cs.cornell.edu/home/kleinber/auth.pdf) (Journal of the ACM, 1999)</strike>
     - Barabási, A. L. and Albert, R. [Emergence of Scaling in Random Networks](https://barabasi.com/f/67.pdf) (Science, 1999)
 
 
