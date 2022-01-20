@@ -3,6 +3,8 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) |
 
 ## News
+- **V Appello del 21/1/2022: Informazioni Utili**<br/>
+L'appello si svolgerà interamente in **modalità a distanza** tramite piattaforma Google Meet, collegandosi al seguente [link](https://meet.google.com/qoi-rzbh-ezf) a partire **dalle ore 10:00**.
 - **Appello starordinario del 2/11/2021: Esiti**<br/>
 Gli esiti dell'appello straordinario sono disponibili al seguente [link](./exams/2020-21/2021-11-02_esiti.pdf).
 - **Appello starordinario del 2/11/2021: Informazioni Utili**<br/>
